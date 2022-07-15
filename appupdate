@@ -1,5 +1,7 @@
-{"newVersion": "4.0.0",
-
- "url": "",
-
- "versionNotes": "PLEASE UPDATE YOUR APP NOW",}
+[
+{
+"version":"1.2.0",
+"changelog":"fixbugs",
+"link":"www.facebook.com"
+}
+]
